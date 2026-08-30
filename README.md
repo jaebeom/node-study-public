@@ -53,7 +53,9 @@ Use `?lang=ko` for Korean, or the **English · 한국어** links in the header.
 
 ## Visibility
 
-This GitHub repository is private. The tree has no passwords, API keys, or database config. `"private": true` in `package.json` means "do not publish to npm"; it is separate from GitHub public/private.
+This is the public copy: [github.com/jaebeom/node-study-public](https://github.com/jaebeom/node-study-public).
+
+The tree has no passwords, API keys, or database config. `"private": true` in `package.json` means "do not publish to npm"; it is separate from GitHub public/private.
 
 ---
 
